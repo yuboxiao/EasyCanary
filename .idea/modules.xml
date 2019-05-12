@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EasyCanary.iml" filepath="$PROJECT_DIR$/EasyCanary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leakcanary/leakcanary.iml" filepath="$PROJECT_DIR$/leakcanary/leakcanary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log/log.iml" filepath="$PROJECT_DIR$/log/log.iml" />
     </modules>
   </component>
 </project>
